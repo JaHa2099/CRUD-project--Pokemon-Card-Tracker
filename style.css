@@ -1,0 +1,45 @@
+body {
+background-color: lightseagreen;
+font-family: 'Cascadia Code';
+margin-top: 3rem;
+margin-bottom: 3rem;
+margin-left: 5%;
+margin-right: 5%;
+}
+
+h1{
+    display: block;
+    justify-self: center;
+    
+}
+
+section {
+    display: flex;
+}
+
+form{
+    flex: auto;
+    background-color: lightcoral;
+    border-radius: 2rem;
+    margin: 2px;
+    padding: 15px;
+}
+
+form div{
+    flex: auto;
+    background-color: lightcyan;
+    border-radius: 2rem;
+    margin: 2px;
+    padding: 15px;
+
+}
+
+
+
+table{
+    flex: 1;
+    background-color: cornflowerblue;
+    border-radius: 2rem;
+    margin: 2px;
+    padding: 15px;
+}
